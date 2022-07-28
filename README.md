@@ -20,7 +20,7 @@ These templates can use used to create RDS instances in AWS VPC with two 'Privat
 Post creation, users can change the properties of the database instance by using "Modify" option in AWS RDS console.
 Users can download and further modify these templates to suite their specific needs. Recommended way is to open the template in cloudformation designer and edit the content. This way, it is easier to track and fix any errors introduced during editing process.
 
-NOTE- These templates are only provided as a reference and are not officially part of AWS documentation.
+NOTE- These templates are only provided as a reference and are not officially part of AWS documentation. Users can download the samples and make changes as per the requirement.
 
 
 ## Security
